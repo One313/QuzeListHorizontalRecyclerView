@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_false">نادرست</string>
+    <string name="button_true">درست</string>
+    <string name="button_previous">قبلي</string>
+    <string name="button_next">بعدي</string>
+    <string name="toast_correct">جواب شما صحيح است.</string>
+    <string name="toast_incorrect">متاسفانه جواب صحيحي نيست</string>
+    <string name="toast_cheated_true">برو خجالت بكش</string>
+    <string name="first_question">اولین سوال</string>
+    <string name="last_question">آخرین سوال</string>
+
+    <string name="message_cheat_activity">جدي جدي مي خواي تقلب كني؟</string>
+    <string name="text_order_cheat">آرررره</string>
+
+    <string name="question_australia">استرالیا بزرگ ترین قاره جهان است.</string>
+    <string name="question_oceans">اقیانوس آرام بزرگ ترین اقیانوس جهان است.</string>
+    <string name="question_mideast">همه کشورهای خاورمیانه عرب زبان هستند.</string>
+    <string name="question_africa">مصر در قاره آفریقا قرار دارد.</string>
+    <string name="question_americas">کشور آمریکا پرجمعیت ترین کشور دنیا است.</string>
+    <string name="question_asia">قاره آسیا در نیم کره جنوبی جهان واقع شده است.</string>
+    <string name="reset">دوباره</string>
+    <string name="button_start">شروع</string>
+    <string name="cheat">تقلب</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
